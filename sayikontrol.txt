@@ -1,0 +1,18 @@
+
+Başla
+
+Sayıyı al
+
+Eğer sayı = 0 ise
+
+“Sıfır” yaz
+
+Değilse eğer sayı 2’ye tam bölünüyorsa
+
+“Çift” yaz
+
+Değilse
+
+“Tek” yaz
+
+Bitir
