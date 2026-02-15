@@ -1,0 +1,15 @@
+Başla
+
+Fonksiyon oluştur → bir sayı alacak
+
+Sayıyı 2’ye böl → kalan sıfır mı?
+
+Evet → Çift
+
+Hayır → Tek
+
+Fonksiyon sonucu geri döndür
+
+Fonksiyonu çağır ve sonucu yazdır
+
+Bitir
