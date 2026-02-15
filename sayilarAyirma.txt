@@ -1,0 +1,13 @@
+Başla
+
+Sayacı 1’den başlat
+
+100’e kadar sırayla say
+
+Eğer sayı 2’ye tam bölünüyorsa → çift
+
+Değilse → tek
+
+Çift ve tekleri ayrı ayrı yazdır
+
+Bitir
