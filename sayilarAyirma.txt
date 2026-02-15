@@ -11,3 +11,4 @@ Değilse → tek
 Çift ve tekleri ayrı ayrı yazdır
 
 Bitir
+#BU SORUYA MUTLAKA DÖN PYTHON İLE AYRI AYRI YAP SONRA BİRLİKTE YAPMAYA GAYRET ET!
