@@ -1,0 +1,13 @@
+Başla
+
+Fonksiyon oluştur → bir dizi alacak
+
+Dizinin eleman sayısını bul
+
+Dizideki tüm elemanları topla
+
+Eleman sayısı ve toplamı geri döndür
+
+Fonksiyonu çağır ve sonucu yazdır
+
+Bitir
