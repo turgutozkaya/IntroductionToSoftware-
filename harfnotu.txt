@@ -1,0 +1,15 @@
+Başla
+
+Notu al
+
+Eğer not 90 ile 100 arasındaysa : “A” yaz
+
+Değilse eğer 80–89 arasındaysa : “B” yaz
+
+Değilse eğer 70–79 arasındaysa : “C” yaz
+
+Değilse eğer 60–69 arasındaysa : “D” yaz
+
+Değilse : “F” yaz
+
+Bitir
