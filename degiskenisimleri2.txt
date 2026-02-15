@@ -1,0 +1,12 @@
+- `1ogrenci`
+- `ogrenci_adi`
+- `ogrenciAdi`
+- `ogrenci-adi`
+- `ogrenci adi`
+
+1 - degisken isimleri sayı ile baslamaz .YANLIS 
+2 - gozumuze direkt alt tire işareti carpıyor .degisken isimlerinde alt tire kullanmakta herhangi bir sakınca yoktur .bu işareti kullanmak serbest . DOGRU 
+
+3 - buyuk harf  ve kucuk harfler kullanmılmıs . herhangi bir sakınca teşkil etmiyor .DOGRU 
+4 - " - "  bu işaret  matematikte cıkarma operatörüdür . bu yüzden bu isaret degisken olarak kabul edilmez .YANLIS
+5- degisken isimlerinde hiçbir zaman bosluk olmaz . YANLIS 
