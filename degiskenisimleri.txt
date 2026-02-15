@@ -1,0 +1,6 @@
+# Değişken İsimleri 
+
+ogrenci_adi
+yas
+ortalamaNot 
+mezunMu
