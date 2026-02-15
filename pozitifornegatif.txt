@@ -1,0 +1,17 @@
+Başla
+
+Sayıyı al
+
+Eğer sayı > 0 ise
+
+“Pozitif” yaz
+
+Değilse eğer sayı < 0 ise
+
+“Negatif” yaz
+
+Değilse
+
+“Sıfır” yaz
+
+Bitir
