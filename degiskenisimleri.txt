@@ -1,6 +1,8 @@
-# Değişken İsimleri 
+# Değisken İsimleri 
 
-ogrenci_adi
-yas
-ortalamaNot 
-mezunMu
+- Öğrenci adı    ogrenci_adi
+- Yaş             yas
+- Ortalama not    ortalamaNot
+- Mezun mu? (Evet/Hayır)   mezunMu
+
+ 

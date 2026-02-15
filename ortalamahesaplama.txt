@@ -1,0 +1,14 @@
+ORTALAMA HESAPLAMA
+Başla
+
+Vize notunu al
+
+Final notunu al
+
+Ortalamayı hesapla
+
+Ortalama = (Vize × 0.40) + (Final × 0.60)
+
+Ortalamayı yazdır
+
+Bitir
