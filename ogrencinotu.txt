@@ -1,0 +1,13 @@
+Başla
+
+Öğrencinin notunu al
+
+Eğer not > 50 ise
+
+“Geçti” yaz
+
+Değilse
+
+“Kaldı” yaz
+
+Bitir
