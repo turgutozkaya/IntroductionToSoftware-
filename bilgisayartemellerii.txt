@@ -1,0 +1,67 @@
+# Bilgisayar Bilimleri Temelleri 
+
+## Giriş 
+Bilgisayar bilimleri; donanım, yazılım ve algoritmalar aracılığıyla problemlerin çözülmesini inceleyen bir bilim dalıdır. 
+
+## Algoritma 
+Algoritma, bir problemi çözmek için izlenen sonlu ve sıralı adımlar bütünüdür.  
+**Algoritmanın temel özellikleri:**
+- Açık ve anlaşılır olmalıdır  
+- Sonlu adımlardan oluşmalıdır  
+- Girdi alıp çıktı üretmelidir  
+
+## Veri Yapıları 
+Veri yapıları, verilerin bilgisayar belleğinde düzenli ve verimli şekilde saklanmasını sağlar.  
+Uygun veri yapısı seçimi, programın çalışma hızını ve performansını doğrudan etkiler.
+**Temel veri yapıları:**
+- Dizi (Array)
+- Bağlı Liste (Linked List)
+- Yığın (Stack)
+- Kuyruk (Queue)
+
+## 4. Bilgisayar Donanımı
+Bilgisayar donanımı, bilgisayarın fiziksel bileşenlerinden oluşur.  
+Donanım bileşenleri, yazılımların çalışabilmesi için gerekli olan altyapıyı sağlar.
+
+### Merkezi İşlem Birimi (CPU)
+CPU, bilgisayarın beyni olarak adlandırılır.  
+Tüm hesaplamalar ve komutların işlenmesi CPU tarafından gerçekleştirilir.
+CPU’nun hızı ve çekirdek sayısı, bilgisayarın genel performansını belirleyen önemli faktörlerdir.
+
+### Bellek (RAM)
+RAM, çalışmakta olan programların geçici olarak tutulduğu bellektir.  
+Bilgisayar kapatıldığında RAM’deki veriler silinir.
+
+### Depolama Birimleri (Disk)
+Diskler, verilerin kalıcı olarak saklandığı birimlerdir.  
+İşletim sistemi, programlar ve kullanıcı dosyaları disk üzerinde tutulur.
+
+- HDD (Hard Disk Drive)
+- SSD (Solid State Drive)
+
+## Yazılım Kavramı
+Yazılım, bilgisayara ne yapması gerektiğini söyleyen komutlar bütünüdür.  
+Donanım tek başına işlevsizdir , yazılım sayesinde anlam kazanır.
+
+**Yazılım türleri:**
+- Sistem Yazılımları (İşletim Sistemi)
+- Uygulama Yazılımları
+- Programlama Yazılımları
+
+## Programlama Dilleri
+Programlama dilleri, yazılım geliştirmek için kullanılan araçlardır.  
+Her programlama dili farklı amaçlara ve kullanım alanlarına sahiptir.
+
+**Örnek diller:**
+- Python
+- Java
+- C
+- JavaScript 
+
+## Yapay Zeka 
+Yapay zeka, bilgisayarların öğrenme, karar verme ve problem çözme yetenekleri kazanmasını amaçlayan bir alandır.  
+İnsan zekâsını taklit eden sistemlerin geliştirilmesini hedefler.
+
+##  Sonuç
+Bilgisayar bilimleri ;  algoritmalar, veri yapıları, donanım ve yazılım kavramlarının bir araya gelmesiyle oluşur.  
+Bu temel kavramlar, modern teknolojinin gelişmesinde büyük bir öneme sahiptir.
