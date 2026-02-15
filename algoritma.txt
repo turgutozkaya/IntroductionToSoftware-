@@ -1,0 +1,15 @@
+# ATM’den Para Çekme Algoritması
+
+Başla
+Kartı tak
+Şifreyi gir
+Şifre doğru mu?
+Hayır > Tekrar dene / Kartı yut
+Evet > Devam et
+Para çekme seç
+Tutar gir
+Bakiye yeterli mi?
+Hayır > İptal
+Evet > Parayı al
+Kartı al
+Bitir
